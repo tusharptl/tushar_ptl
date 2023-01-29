@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 70%;
+    width: 100%;
+    padding: 70px 15%;
+    background-color: black;
+    color: #efefef;
+    display: flex;
+}
+
+.contect{
+    text-align: center;
+    flex-grow: 2 ;
+}
